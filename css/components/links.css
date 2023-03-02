@@ -1,0 +1,10 @@
+a {
+    color: black;
+    text-decoration-line: none;
+    transition: color 0.3s ease;
+}
+
+a.hover {
+    color: #2E906A;
+
+}
